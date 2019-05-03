@@ -1,0 +1,28 @@
+body{
+	margin-left: 20%;
+	margin-top: 50px;
+	width: 70%;
+}
+
+input,textarea,button{
+	background-color: #fee3ae;
+}
+
+table,th{
+	padding: 4px;
+	float: left;
+
+}
+
+button{
+	margin-left: 160px; 
+}
+
+select{
+	width: 200px;
+}
+legend{
+	padding: 2px;
+	background-color: orange;
+
+}
