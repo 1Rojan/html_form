@@ -9,13 +9,13 @@ input,textarea,button{
 }
 
 table,th{
-	padding: 4px;
+	padding: 5px;
 	float: left;
 
 }
 
 button{
-	margin-left: 160px; 
+	margin-left: 170px; 
 }
 
 select{
